@@ -294,7 +294,7 @@ a {
     margin-left: auto;
     margin-right: auto;
     max-width: 1230px;
-    padding: 40px 15px 1050px;
+    padding: 40px 15px 350px;
     position: relative;
 }
 
@@ -309,11 +309,6 @@ a {
   transition: background-color 0.3s;
   margin: 20px 0;
 
-}
-
-.discover:hover{
-  background-color: #fff;
-    color: #b12424;
 }
 
 .preview{
@@ -665,7 +660,7 @@ left: 10px;
     margin-left: auto;
     margin-right: auto;
     max-width: 1230px;
-    padding: 40px 15px 1050px;
+    padding: 40px 15px 350px;
     position: relative;
   }
 
@@ -838,7 +833,7 @@ left: 10px;
       margin-left: auto;
       margin-right: auto;
       max-width: 1230px;
-      padding: 40px 15px 1050px;
+      padding: 40px 15px 350px;
       position: relative;
   }
 
